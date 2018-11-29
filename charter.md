@@ -30,6 +30,12 @@ All legislative powers of this body shall be granted to the Senate, a unicameral
 
 1. To admit a new member to the model government, the Senate must consent to his or her admission.
 
+2. Motions passed by
+
 #### Section 5
 
 1. The Senate has the authority to make any laws, so long as those laws do not conflict with this Charter.
+
+#### Section 6
+
+1. 
